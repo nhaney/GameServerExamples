@@ -1,4 +1,5 @@
-**Game Server Examples**
+***Game Server Examples***
+
 In this repository you will find examples of game servers for different types of games using different libraries.
 
 I am primarily doing this to track my progression on this subject and to build my skills up enough for a larger scale project further down the line.
